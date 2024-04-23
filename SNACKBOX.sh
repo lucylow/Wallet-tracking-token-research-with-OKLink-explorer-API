@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define variables
-TOKEN_ADDRESS="0x..."  # Replace with SNACKBOX token contract address
-OK_ACCESS_KEY="00d6a478-9699-4c31-944a-d6f423d91303"  # Replace with your OKLink access key
+TOKEN_ADDRESS="0x578b388528f159d026693c3c103100d36ac2ad65"  # Replace with SNACKBOX token contract address
+OK_ACCESS_KEY=""  # Replace with your OKLink access key
 
 # Function to fetch token information
 fetch_token_info() {
